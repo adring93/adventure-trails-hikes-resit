@@ -52,7 +52,5 @@ No additional dependencies are required as this is a static site using HTML and 
 - **Tools**: Squoosh for image optimization, Trello for project management.
 - **Image Optimization**: Images were optimized using Squoosh and TinyPNG to reduce file sizes while maintaining visual quality. The `sunrise.jpg` image was converted to a CSS background image to address initial loading issues.
 - **Responsive Design**: The site utilizes media queries in `styles.css` to adapt the layout and font sizes for different screen sizes, ensuring a consistent experience across devices. Key adjustments were made to the header, hero section, and featured hikes section for mobile devices.
-- **Mobile Menu Implementation**: The CSS-only mobile menu is implemented using the "checkbox hack" technique, as explained in this YouTube video: [https://www.youtube.com/watch?v=X2w1e-5oXWg](https://www.youtube.com/watch?v=X2w1e-5oXWg).
-
 ## License
 This project is for educational purposes and not licensed for commercial use.
